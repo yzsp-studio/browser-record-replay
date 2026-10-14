@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Record & Replay"
+  short_description: "Turn a 本平台 browser demonstration into a reusable RPA Skill"
+  default_prompt: "Use $browser-record-replay with the browser built into 本平台 to record or develop a browser workflow and deliver a callable RPA Skill."
